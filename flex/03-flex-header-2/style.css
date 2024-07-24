@@ -58,9 +58,6 @@ ul {
 ul {
   display: flex;
   gap: 16px;
-}
-
-.left-header{
   align-items: center;
 }
 
